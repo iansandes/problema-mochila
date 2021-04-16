@@ -21,3 +21,5 @@ sh
 O peso máximo da mochila é  50
 Peso Ideal: 45 | Valor Ideal: 254.19
 ```
+
+- Ian Sandes E José Everton
